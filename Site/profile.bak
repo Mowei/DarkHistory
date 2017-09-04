@@ -91,12 +91,12 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
             <table cellspacing=0 cellpadding=0 border="0" width="450" align="center">
                 <tr>
                     <td width="140" valign="top">
-                        <p><img src="images/I.jpg" width="303" height="243" border="0"></p>
+                        <p><img src="images/%BCv%B9%B3011.jpg" width="303" height="243" border="0"></p>
                     </td>
                     <td width="310" valign="top">
                         <h1 align="left"><img src="images/nth_theme_business_classic_mint_bullet_l.gif" border="0" class="namo-bullet1"> 
                         我...</h1>
-                        <p class="namo-list">我是誰......</p>
+                        <p class="namo-list">我就是我啊......</p>
                         <p class="namo-sublist">&nbsp;</p>
                         <p>&nbsp;</p>
                         <p>&nbsp;</p>
@@ -110,7 +110,7 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                 <tr>
                     <td colspan="2">
                         <h2 class="namo-list"><img src="images/nth_theme_business_classic_mint_bullet_s.gif" border="0" class="namo-bullet2"> 
-                        輸入標題。</h2>
+                        自介</h2>
                     </td>
                 </tr>
                 <tr>
@@ -118,9 +118,7 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                         <p>&nbsp;</p>
                     </td>
                     <td width="430">
-                        <p class="namo-list">插入內容。</p>
-                        <p class="namo-sublist">插入內容。</p>
-                        <p>插入內容。</p>
+                        <p class="namo-list">我..因該不用再多做介紹了吧..</p>
                         <p>&nbsp;</p>
                     </td>
                 </tr>

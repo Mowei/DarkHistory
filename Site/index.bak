@@ -49,7 +49,7 @@ function na_restore_img_src(name, nsdoc)
 <table class="namo-sublist" border="0" width="750">
     <tr>
         <td width="125">
-            <p class="namo-sublist">&nbsp;</p>
+            <p class="namo-sublist">&nbsp;<embed name="logo" src="logo.swf" width="97" height="79"></p>
         </td>
         <td width="625"><font size="5"><!--NAMO_NAVBAR_START B H C       -1 1 3 5 4 6 -->
 <div align="center">
@@ -86,7 +86,7 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                 <tr>
                     <td colspan="2">
                         <h1 align="left"><img src="images/nth_theme_business_classic_mint_bullet_l.gif" border="0" class="namo-bullet1"> 
-                        個人簡介</h1>
+                        個人小介紹</h1>
                     </td>
                 </tr>
                 <tr>
@@ -115,7 +115,7 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                     <td width="430">
                         <p class="namo-list"><img src="images/nth_theme_business_classic_mint_bullet_s.gif" border="0" class="namo-bullet2"> 我！！就是我...</p>
                         <ul>
-                            <p class="namo-sublist">我是個很害羞的人....（羞～）＞／／／＜</p>
+                            <p class="namo-sublist">我是很害羞的人....＞／／／＜</p>
                         </ul>
                         <p>&nbsp;</p>
                     </td>
