@@ -83,24 +83,15 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
             <!--NAMO_NAVBAR_END--></td>
         <td width="625" valign="top">
             <p class="namo-sublist" align="center">&nbsp;</p>
-            <!--NAMO_NAVBAR_START C h C       -1 2 3 5 4 6 -->
-<div align="center">
-[<a href="theme_1.html"  onmouseover="" onmouseout="">主旨 1</a>]</div>
-            <!--NAMO_NAVBAR_END-->
-            <p align="center">&nbsp;</p>
-            <table cellpadding=0 border="0" width="539" align="center">
+            <table cellpadding=0 border="0" width="491" align="center">
                 <tr>
-                    <td colspan="2" width="535">
-                        <h1 align="left"><img src="images/nth_theme_business_classic_mint_bullet_l.gif" border="0" class="namo-bullet1"> 
-                        動漫~</h1>
+                    <td width="487">
+                        <h1 align="left"><img src="images/nth_theme_business_classic_mint_bullet_l.gif" border="0" class="namo-bullet1"><A onmouseover="" onmouseout="" href="theme_1.html"><font color="#0099FF">Lucky ☆ Star</font></A></h1>
                     </td>
                 </tr>
                 <tr>
-                    <td width="452" valign="top">
-                        <p>&nbsp;</p>
-                    </td>
-                    <td width="81" valign="top">
-                        <p>&nbsp;</p>
+                    <td width="487" valign="top">
+                        <p>&nbsp;<img src="images/1179643819167.png" width="480" height="270" border="0"></p>
                     </td>
                 </tr>
             </table>
@@ -109,7 +100,7 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                 <tr>
                     <td colspan="2" width="523" height="18">
                         <h2 class="namo-list"><img src="images/nth_theme_business_classic_mint_bullet_s.gif" border="0" class="namo-bullet2"> 
-                        動漫動漫~</h2>
+                        動漫~</h2>
                     </td>
                 </tr>
                 <tr>
@@ -117,7 +108,8 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                         <p>&nbsp;</p>
                     </td>
                     <td width="501">
-                        <p>動漫好阿~</p>
+<A onmouseover="" onmouseout="">Lucky Star~</A>
+                        <p>&nbsp;</p>
                         <p>&nbsp;</p>
                     </td>
                 </tr>

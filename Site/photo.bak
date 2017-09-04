@@ -97,12 +97,12 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
                         <p class="namo-sublist" align="center"><b><a href="photo_2.html">插入內容。</a></b></p>
                     </td>
                     <td width="210" valign="bottom">
-                        <p class="namo-sublist" align="center"><img src="images/05/1173718501349.jpg" width="304" height="324" border="0" alt="160x120.gif"></p>
+                        <p class="namo-sublist" align="center"><a href="photo_2.html"><img src="images/05/1173718501349.jpg" width="304" height="324" border="0" alt="160x120.gif"></a></p>
                     </td>
                 </tr>
                 <tr>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD" height="245">
-                        <p class="namo-sublist" align="center"><img src="images/kanon/1145629852C9C2F.jpg" width="353" height="282" border="0" alt="160x120.gif"></p>
+                        <p class="namo-sublist" align="center"><a href="photo_3.html"><img src="images/kanon/1145629852C9C2F.jpg" width="353" height="282" border="0" alt="160x120.gif"></a></p>
                     </th>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD" height="245">
                         <p class="namo-sublist" align="center"> <b><a href="photo_3.html">插入內容。</a></b></p>
