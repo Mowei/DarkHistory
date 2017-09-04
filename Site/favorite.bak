@@ -1,0 +1,156 @@
+
+<html>
+
+<head>
+<title>最愛</title>
+<meta name="GENERATOR" content="Namo WebEditor v5.0">
+
+<meta name="namo-theme" content="Theme\Arts\Modern">
+<style>
+<!--
+body { color:rgb(192,192,192); font-family:新細明體;}
+h1 { color:rgb(192,192,192); font-size:12pt; font-family:新細明體;}
+h2 { color:rgb(217,108,0); font-size:12pt; font-family:新細明體;}
+p.namo-list { color:rgb(223,128,255); font-size:12pt; font-family:新細明體;}
+p.namo-sublist { color:rgb(255,128,192); font-size:10pt; font-family:新細明體;}
+th { color:rgb(192,192,192); font-family:新細明體;}
+td { color:rgb(192,192,192); font-family:新細明體;}
+a:link {}
+a:visited {}
+a:active {}
+-->
+</style>
+<meta http-equiv="content-type" content="text/html; charset=big5">
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// -->
+</script>
+</head>
+
+<body bgcolor="navy" text="silver" link="red" vlink="gray" alink="#FE8B5A" background="images/nth_theme_arts_modern_bg.gif">
+<table class="namo-sublist" border="0" width="750">
+    <tr>
+        <td width="125">
+            <p class="namo-sublist">&nbsp;</p>
+        </td>
+        <td width="625"><font size="5"><!--NAMO_NAVBAR_START B H C       -1 0 0 0 0 0 -->
+<div align="center">
+<img src="nav/nav_1_favorite_bhb.gif" name="nav_favorite_BH0" 
+border="0" class="namo-banner" alt="最愛" align="texttop"></div>
+<!--NAMO_NAVBAR_END--></font></td>
+    </tr>
+    <tr>
+        <td width="125" valign="top"><!--NAMO_NAVBAR_START T V C h     -1 0 0 0 0 0 -->
+<div align="center">
+<a href="index.html"  
+onmouseover="na_change_img_src('nav_favorite_TV0', 'document', 'nav/nav_6_favorite_btn_homer.gif', true);"
+onmouseout="na_restore_img_src('nav_favorite_TV0', 'document');"><img src="nav/nav_6_favorite_btn_home.gif" name="nav_favorite_TV0" 
+border="0" class="namo-button1" alt="首頁" align="texttop"></a>&nbsp;<br>
+<a href="profile.html"  
+onmouseover="na_change_img_src('nav_favorite_TV1', 'document', 'nav/nav_6_profile_tvr.gif', true);"
+onmouseout="na_restore_img_src('nav_favorite_TV1', 'document');"><img src="nav/nav_6_profile_tv.gif" name="nav_favorite_TV1" 
+border="0" class="namo-button1" alt="關於我自己" align="texttop"></a>&nbsp;<br>
+<img src="nav/nav_6_favorite_tvh.gif" name="nav_favorite_TV2" 
+border="0" class="namo-hibutton1" alt="最愛" align="texttop">&nbsp;<br>
+<a href="photo.html"  
+onmouseover="na_change_img_src('nav_favorite_TV3', 'document', 'nav/nav_6_photo_tvr.gif', true);"
+onmouseout="na_restore_img_src('nav_favorite_TV3', 'document');"><img src="nav/nav_6_photo_tv.gif" name="nav_favorite_TV3" 
+border="0" class="namo-button1" alt="相片" align="texttop"></a>&nbsp;<br>
+<a href="links.html"  
+onmouseover="na_change_img_src('nav_favorite_TV4', 'document', 'nav/nav_6_links_tvr.gif', true);"
+onmouseout="na_restore_img_src('nav_favorite_TV4', 'document');"><img src="nav/nav_6_links_tv.gif" name="nav_favorite_TV4" 
+border="0" class="namo-button1" alt="連結" align="texttop"></a>&nbsp;<br>
+<a href="mailto:tso88206@gmail.com.tw"  
+onmouseover="na_change_img_src('nav_favorite_TV5', 'document', 'nav/nav_6_13_tvr.gif', true);"
+onmouseout="na_restore_img_src('nav_favorite_TV5', 'document');"><img src="nav/nav_6_13_tv.gif" name="nav_favorite_TV5" 
+border="0" class="namo-button1" alt="連絡" align="texttop"></a><a name="anchor_menu0">&nbsp;</a><br>
+</div>
+<!--NAMO_NAVBAR_END--></td>
+        <td width="625" valign="top">
+            <p class="namo-sublist" align="center">&nbsp;</p>
+            <!--NAMO_NAVBAR_START C h C       -1 0 0 0 0 0 -->
+<div align="center">
+[<a href="theme_1.html"  onmouseover="" onmouseout="">主旨 1</a>][<a href="theme_2.html"  onmouseover="" onmouseout="">主旨 2</a>][<a href="theme_3.html"  onmouseover="" onmouseout="">主旨 3</a>]</div>
+<!--NAMO_NAVBAR_END-->
+            <p align="center">&nbsp;</p>
+            <table cellpadding=0 border="0" width="450" align="center">
+                <tr>
+                    <td colspan="2">
+                        <h1 align="left"><img src="images/nth_theme_arts_modern_bullet_l.gif" border="0" class="namo-bullet1"> 
+                        輸入標題。</h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="160" valign="top">
+                        <p><img src="images/150x109.gif" width="150" height="109" border="0"></p>
+                    </td>
+                    <td width="290" valign="top">
+                        <p class="namo-list">插入內容。</p>
+                        <p class="namo-sublist">插入內容。</p>
+                        <p>插入內容。</p>
+                        <p>&nbsp;</p>
+                    </td>
+                </tr>
+            </table>
+            <hr size="1" width="450">
+            <table cellpadding=0 border="0" width="450" align="center">
+                <tr>
+                    <td colspan="2">
+                        <h2 class="namo-list"><img src="images/nth_theme_arts_modern_bullet_s.gif" border="0" class="namo-bullet2"> 
+                        輸入標題。</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="20">
+                        <p>&nbsp;</p>
+                    </td>
+                    <td width="430">
+                        <p>插入內容。</p>
+                        <p class="namo-sublist">插入內容。</p>
+                        <p>插入內容。</p>
+                        <p>&nbsp;</p>
+                    </td>
+                </tr>
+            </table>
+            <p align="center">&nbsp;</p>
+            <p align="center"></p>
+            <p align="center"><img src="images/nth_theme_arts_modern_hr.gif" border="0" class="namo-hr"></p>
+            <!--NAMO_NAVBAR_START T h C h     -1 0 0 0 0 0 -->
+<div align="center">
+[<a href="index.html"  onmouseover="" onmouseout="">首頁</a>][<a href="profile.html"  onmouseover="" onmouseout="">關於我自己</a>][最愛][<a href="photo.html"  onmouseover="" onmouseout="">相片</a>][<a href="links.html"  onmouseover="" onmouseout="">連結</a>][<a href="mailto:tso88206@gmail.com.tw"  onmouseover="" onmouseout="">連絡</a>]</div>
+<!--NAMO_NAVBAR_END-->
+            <hr size="1" width="450">
+            <p align="center"><font size="2"></font></p>
+        </td>
+    </tr>
+</table>
+<div style="line-height:150%">
+    <p>&nbsp;</p>
+</div>
+<p class="namo-sublist">&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+
+</html>

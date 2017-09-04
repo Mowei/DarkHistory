@@ -1,0 +1,12 @@
+[0]
+maxcount=8
+0=1;theme\Business_Classic\Mint.ntm\banner
+1=2;theme\Business_Classic\Mint.ntm\hbutton
+2=3;上一頁$下一頁$首頁$向上$[$]$[$]$[$]$150$5$
+3=4;2|2|20|0|
+4=5;Arial|10|20|0| 0|0|0| 255|255|255| 204|204|204| 0|0|132| 119|119|119| 1| 255|255|255| 85|85|85| 120|
+5=6;|
+6=7;theme\Business_Classic\Mint.ntm\vbutton
+
+[1]
+site_struct_changed=0
