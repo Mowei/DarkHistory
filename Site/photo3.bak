@@ -86,26 +86,26 @@ border="0" class="namo-button1" alt="相關連結" align="texttop"></a><a name="anch
             <table class="namo-table" align="center" border="0" bordercolordark="#707070" bordercolorlight="silver" cellpadding="3" cellspacing="0">
                 <tr>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD">
-                        <p class="namo-sublist" align="center">&nbsp;</p>
+                        <p class="namo-sublist" align="center"><img src="images/kanon/018.jpg" width="331" height="320" border="0"></p>
                     </th>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD">
-                        <p class="namo-sublist" align="left">&nbsp;</p>
+                        <p class="namo-sublist" align="center"><img src="images/kanon/kanon_art_N0030.jpg" width="340" height="324" border="0"></p>
                     </th>
                 </tr>
                 <tr>
                     <td width="210" valign="bottom">
-                        <p class="namo-sublist" align="center">&nbsp;</p>
+                        <p class="namo-sublist" align="center"><img src="images/kanon/022.jpg" width="328" height="459" border="0"></p>
                     </td>
                     <td width="210" valign="bottom">
-                        <p class="namo-sublist" align="center">&nbsp;</p>
+                        <p class="namo-sublist" align="center"><img src="images/kanon/1174234101224.jpg" width="394" height="451" border="0">&nbsp;</p>
                     </td>
                 </tr>
                 <tr>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD" height="245">
-                        <p class="namo-sublist" align="center">&nbsp;</p>
+                        <p class="namo-sublist" align="center"><img src="images/kanon/020.jpg" width="328" height="354" border="0"></p>
                     </th>
                     <th width="210" valign="bottom" bgcolor="#DFFAFD" height="245">
-                        <p class="namo-sublist" align="center"> &nbsp;</p>
+                        <p class="namo-sublist" align="center"> <img src="images/kanon/019.jpg" width="325" height="353" border="0"></p>
                     </th>
                 </tr>
             </table>
